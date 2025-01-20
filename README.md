@@ -1,4 +1,4 @@
-# Customer-Insights-and-Sales-Trend-Analysis-
+# Customer Retention Optimization
 This repository includes:
 
 DA Project.ipynb: A Jupyter Notebook for data cleaning, EDA, feature engineering, and visualization using matplotlib and seaborn.
